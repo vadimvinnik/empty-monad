@@ -2,7 +2,7 @@
 
 Module      :  Data.Empty
 Copyright   :  Vadim Vinnik, 2017
-License     :  BSD-style (see the LICENSE file in the distribution)
+License     :  BSD3
 
 Maintainer  :  vadim.vinnik@gmail.com
 Stability   :  experimental
