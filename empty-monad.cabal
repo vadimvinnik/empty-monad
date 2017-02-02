@@ -1,5 +1,5 @@
 name:                empty-monad
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            A container that always has no values.
 description:
     Like arithmetics is incomplete without zero, set theory is impossible without
@@ -26,6 +26,6 @@ source-repository head
 
 library
   exposed-modules:     Data.Empty
-  build-depends:       base >=4.8 && <4.9
+  build-depends:       base == 4.*
   hs-source-dirs:      src
   default-language:    Haskell98
